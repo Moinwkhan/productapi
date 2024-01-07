@@ -1,0 +1,234 @@
+[
+  {
+    "name": "iPhone 13",
+    "price": 1199.99,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2022-07-07T12:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "iPhone 12",
+    "price": 1099.99,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2022-06-07T12:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "iPhone 11",
+    "price": 999.99,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2022-05-07T12:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S22",
+    "price": 999.99,
+    "featured": true,
+    "rating": 4.7,
+    "createdAt": "2022-04-07T12:00:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Galaxy S23",
+    "price": 1199.99,
+    "featured": true,
+    "rating": 4.7,
+    "createdAt": "2022-03-07T12:00:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Galaxy S22 ultra",
+    "price": 1299.99,
+    "featured": true,
+    "rating": 4.7,
+    "createdAt": "2022-02-07T12:00:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Redmi Note 10",
+    "price": 849.99,
+    "featured": false,
+    "rating": 4.5,
+    "createdAt": "2022-09-07T12:00:00Z",
+    "company": "mi"
+  },
+  {
+    "name": "iQOO 8 pro",
+    "price": 899.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-12-07T12:00:00Z",
+    "company": "iqoo"
+  },
+  {
+    "name": "iQOO 9",
+    "price": 1099.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-03-20T12:00:00Z",
+    "company": "iqoo"
+  },
+  {
+    "name": "Product 1",
+    "price": 299.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T12:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Product 2",
+    "price": 199.99,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T12:30:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Product 3",
+    "price": 129.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T13:00:00Z",
+    "company": "mi"
+  },
+  {
+    "name": "Product 4",
+    "price": 349.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T13:30:00Z",
+    "company": "iqoo"
+  },
+  {
+    "name": "Product 5",
+    "price": 159.99,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T14:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Product 6",
+    "price": 249.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T14:30:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Product 7",
+    "price": 179.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T15:00:00Z",
+    "company": "mi"
+  },
+  {
+    "name": "Product 8",
+    "price": 399.99,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T15:30:00Z",
+    "company": "iqoo"
+  },
+  {
+    "name": "Product 9",
+    "price": 209.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T16:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Product 10",
+    "price": 159.99,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T16:30:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Product 11",
+    "price": 189.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T17:00:00Z",
+    "company": "mi"
+  },
+  {
+    "name": "Product 12",
+    "price": 299.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T17:30:00Z",
+    "company": "iqoo"
+  },
+  {
+    "name": "Product 13",
+    "price": 249.99,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T18:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Product 14",
+    "price": 169.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T18:30:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Product 15",
+    "price": 139.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T19:00:00Z",
+    "company": "mi"
+  },
+  {
+    "name": "Product 16",
+    "price": 349.99,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T19:30:00Z",
+    "company": "iqoo"
+  },
+  {
+    "name": "Product 17",
+    "price": 199.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T20:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Product 18",
+    "price": 159.99,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T20:30:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Product 19",
+    "price": 179.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T21:00:00Z",
+    "company": "mi"
+  },
+  {
+    "name": "Product 20",
+    "price": 399.99,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2022-01-07T21:30:00Z",
+    "company": "iqoo"
+  }
+]
